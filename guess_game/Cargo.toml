@@ -1,0 +1,7 @@
+[project]
+
+name = "guess_game"
+version = "0.0.1"
+authors = ["pk4"]
+
+[dependencies]
